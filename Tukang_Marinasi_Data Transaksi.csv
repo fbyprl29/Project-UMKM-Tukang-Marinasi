@@ -1,0 +1,151 @@
+﻿Order_ID,Tanggal,Customer_ID,Produk,Wilayah,Segmen_Pelanggan,Kanal_Penjualan,Jumlah_Produk,Harga_Satuan,Total_Penjualan,Tipe_Pelanggan,Metode_Pembayaran,Status_Data
+ORD-119,2026-07-20 00:00:00,CUST-041,Paket Hemat,Jakarta Selatan,Komunitas/Organisasi,WhatsApp,7,35000,245000,Repeat,Cash,DUMMY
+ORD-128,2026-07-20 00:00:00,CUST-072,Ayam Blackpepper,Jakarta Timur,Mahasiswa,Offline/Event,3,21000,63000,Repeat,Transfer,DUMMY
+ORD-045,2026-07-21 00:00:00,CUST-079,Ayam BBQ,Depok,Mahasiswa,Instagram,3,20000,60000,Repeat,E-Wallet,DUMMY
+ORD-121,2026-07-21 00:00:00,CUST-076,Ayam BBQ,Jakarta Selatan,Mahasiswa,Teman/Referensi,4,20000,80000,Repeat,Cash,DUMMY
+ORD-136,2026-07-22 00:00:00,CUST-028,Ayam Blackpepper,Jakarta Barat,Mahasiswa,WhatsApp,2,21000,42000,Repeat,Transfer,DUMMY
+ORD-001,2026-07-24 00:00:00,CUST-001,Ayam BBQ,Jakarta Timur,Mahasiswa,Instagram,1,20000,20000,Baru,Transfer,DUMMY
+ORD-077,2026-07-24 00:00:00,CUST-082,Ayam BBQ,Bekasi,Mahasiswa,Instagram,1,20000,20000,Repeat,Cash,DUMMY
+ORD-080,2026-07-24 00:00:00,CUST-060,Ayam Original,Depok,Rumah Tangga,Teman/Referensi,4,18000,72000,Baru,E-Wallet,DUMMY
+ORD-027,2026-07-25 00:00:00,CUST-004,Ayam Pedas,Bekasi,Mahasiswa,TikTok,2,19000,38000,Baru,E-Wallet,DUMMY
+ORD-055,2026-07-25 00:00:00,CUST-079,Ayam Pedas,Jakarta Barat,Mahasiswa,TikTok,1,19000,19000,Baru,Transfer,DUMMY
+ORD-087,2026-07-25 00:00:00,CUST-026,Ayam Pedas,Tangerang,Mahasiswa,WhatsApp,2,19000,38000,Repeat,Cash,DUMMY
+ORD-107,2026-07-25 00:00:00,CUST-028,Ayam Blackpepper,Bogor,Mahasiswa,WhatsApp,1,21000,21000,Repeat,Cash,DUMMY
+ORD-046,2026-07-26 00:00:00,CUST-017,Ayam BBQ,Tangerang,Mahasiswa,Instagram,2,20000,40000,Repeat,Transfer,DUMMY
+ORD-086,2026-07-26 00:00:00,CUST-011,Ayam Original,Jakarta Timur,Rumah Tangga,TikTok,1,18000,18000,Repeat,Cash,DUMMY
+ORD-123,2026-07-26 00:00:00,CUST-084,Ayam BBQ,Jakarta Selatan,Mahasiswa,WhatsApp,3,20000,60000,Baru,E-Wallet,DUMMY
+ORD-007,2026-07-27 00:00:00,CUST-050,Ayam Blackpepper,Depok,Mahasiswa,Teman/Referensi,4,21000,84000,Baru,Cash,DUMMY
+ORD-091,2026-07-27 00:00:00,CUST-010,Paket Hemat,Bogor,Mahasiswa,TikTok,2,35000,70000,Baru,Transfer,DUMMY
+ORD-120,2026-07-27 00:00:00,CUST-080,Ayam Pedas,Depok,Mahasiswa,WhatsApp,3,19000,57000,Repeat,Cash,DUMMY
+ORD-032,2026-07-28 00:00:00,CUST-074,Paket Hemat,Depok,Rumah Tangga,Teman/Referensi,1,35000,35000,Baru,Cash,DUMMY
+ORD-078,2026-07-28 00:00:00,CUST-076,Ayam Blackpepper,Bekasi,Rumah Tangga,WhatsApp,1,21000,21000,Baru,E-Wallet,DUMMY
+ORD-039,2026-07-30 00:00:00,CUST-016,Ayam BBQ,Bekasi,Mahasiswa,Offline/Event,1,20000,20000,Baru,E-Wallet,DUMMY
+ORD-019,2026-07-31 00:00:00,CUST-084,Ayam BBQ,Jakarta Barat,Karyawan,Teman/Referensi,4,20000,80000,Baru,Transfer,DUMMY
+ORD-036,2026-07-31 00:00:00,CUST-011,Ayam Pedas,Jakarta Selatan,Komunitas/Organisasi,Teman/Referensi,1,19000,19000,Baru,Transfer,DUMMY
+ORD-049,2026-07-31 00:00:00,CUST-052,Paket Hemat,Jakarta Selatan,Komunitas/Organisasi,Teman/Referensi,8,35000,280000,Baru,Transfer,DUMMY
+ORD-134,2026-07-31 00:00:00,CUST-005,Paket Hemat,Bogor,Komunitas/Organisasi,Offline/Event,7,35000,245000,Repeat,Transfer,DUMMY
+ORD-063,2026-08-01 00:00:00,CUST-050,Ayam Blackpepper,Depok,Karyawan,TikTok,1,21000,21000,Repeat,E-Wallet,DUMMY
+ORD-016,2026-08-02 00:00:00,CUST-052,Ayam Pedas,Jakarta Selatan,Komunitas/Organisasi,Offline/Event,1,18000,18000,Baru,E-Wallet,DUMMY
+ORD-026,2026-08-02 00:00:00,CUST-018,Ayam BBQ,Jakarta Timur,Mahasiswa,Offline/Event,2,20000,40000,Baru,Transfer,DUMMY
+ORD-041,2026-08-02 00:00:00,CUST-073,Ayam BBQ,Bekasi,Rumah Tangga,WhatsApp,2,20000,40000,Repeat,E-Wallet,DUMMY
+ORD-052,2026-08-02 00:00:00,CUST-026,Paket Hemat,Jakarta Timur,Rumah Tangga,WhatsApp,2,35000,70000,Repeat,Transfer,DUMMY
+ORD-076,2026-08-02 00:00:00,CUST-073,Ayam Pedas,Bogor,Mahasiswa,Offline/Event,2,19000,38000,Repeat,Cash,DUMMY
+ORD-127,2026-08-02 00:00:00,CUST-023,Ayam BBQ,Jakarta Timur,Mahasiswa,Instagram,4,20000,80000,Repeat,Cash,DUMMY
+ORD-129,2026-08-02 00:00:00,CUST-009,Ayam Pedas,Tangerang,Komunitas/Organisasi,WhatsApp,4,19000,76000,Repeat,E-Wallet,DUMMY
+ORD-137,2026-08-02 00:00:00,CUST-022,Ayam Blackpepper,Jakarta Selatan,Mahasiswa,Instagram,3,20000,60000,Repeat,E-Wallet,DUMMY
+ORD-139,2026-08-02 00:00:00,CUST-080,Ayam Original,Jakarta Selatan,Rumah Tangga,WhatsApp,4,18000,72000,Repeat,Transfer,DUMMY
+ORD-038,2026-08-04 00:00:00,CUST-019,Ayam Original,Bekasi,Komunitas/Organisasi,Teman/Referensi,3,18000,54000,Baru,Transfer,DUMMY
+ORD-106,2026-08-04 00:00:00,CUST-015,Ayam Pedas,Bogor,Komunitas/Organisasi,WhatsApp,2,19000,38000,Repeat,E-Wallet,DUMMY
+ORD-130,2026-08-05 00:00:00,CUST-069,Ayam Blackpepper,Jakarta Selatan,Mahasiswa,TikTok,1,21000,21000,Baru,Transfer,DUMMY
+ORD-002,2026-08-06 00:00:00,CUST-023,Ayam BBQ,Jakarta Barat,Komunitas/Organisasi,WhatsApp,2,20000,40000,Baru,Cash,DUMMY
+ORD-089,2026-08-06 00:00:00,CUST-003,Ayam Blackpepper,Jakarta Selatan,Karyawan,WhatsApp,2,21000,42000,Repeat,E-Wallet,DUMMY
+ORD-100,2026-08-06 00:00:00,CUST-006,Ayam Blackpepper,Jakarta Barat,Mahasiswa,Teman/Referensi,2,21000,42000,Baru,Cash,DUMMY
+ORD-109,2026-08-06 00:00:00,CUST-066,Ayam Pedas,Bekasi,Karyawan,Instagram,2,19000,38000,Repeat,Transfer,DUMMY
+ORD-014,2026-08-07 00:00:00,CUST-019,Ayam Pedas,Bekasi,Mahasiswa,Instagram,3,19000,57000,Baru,E-Wallet,DUMMY
+ORD-061,2026-08-07 00:00:00,CUST-025,Paket Hemat,Tangerang,Mahasiswa,Instagram,4,35000,140000,Repeat,Cash,DUMMY
+ORD-028,2026-08-09 00:00:00,CUST-021,Ayam Original,Jakarta Pusat,Mahasiswa,Instagram,2,18000,36000,Baru,Transfer,DUMMY
+ORD-048,2026-08-09 00:00:00,CUST-046,Ayam Pedas,Jakarta Selatan,Rumah Tangga,WhatsApp,2,19000,38000,Repeat,E-Wallet,DUMMY
+ORD-118,2026-08-10 00:00:00,CUST-073,Ayam Original,Tangerang,Rumah Tangga,Instagram,2,18000,36000,Repeat,E-Wallet,DUMMY
+ORD-138,2026-08-10 00:00:00,CUST-005,Ayam Original,Depok,Rumah Tangga,Instagram,3,18000,54000,Repeat,Cash,DUMMY
+ORD-116,2026-08-11 00:00:00,CUST-053,Paket Hemat,Jakarta Barat,Mahasiswa,Teman/Referensi,2,35000,70000,Baru,E-Wallet,DUMMY
+ORD-126,2026-08-11 00:00:00,CUST-031,Paket Hemat,Bogor,Mahasiswa,Instagram,3,35000,105000,Repeat,E-Wallet,DUMMY
+ORD-006,2026-08-12 00:00:00,CUST-074,Ayam Blackpepper,Jakarta Selatan,Rumah Tangga,TikTok,1,21000,21000,Baru,Cash,DUMMY
+ORD-083,2026-08-12 00:00:00,CUST-010,Ayam Original,Bogor,Mahasiswa,Instagram,4,18000,72000,Repeat,E-Wallet,DUMMY
+ORD-141,2026-08-12 00:00:00,CUST-051,Ayam Blackpepper,Bekasi,Karyawan,Offline/Event,1,21000,21000,Repeat,Transfer,DUMMY
+ORD-071,2026-08-13 00:00:00,CUST-065,Ayam BBQ,Jakarta Selatan,Mahasiswa,Offline/Event,2,20000,40000,Repeat,Transfer,DUMMY
+ORD-104,2026-08-13 00:00:00,CUST-017,Ayam Original,Bogor,Komunitas/Organisasi,Instagram,8,18000,144000,Repeat,E-Wallet,DUMMY
+ORD-042,2026-08-14 00:00:00,CUST-026,Ayam BBQ,Bekasi,Karyawan,Instagram,4,20000,80000,Baru,Cash,DUMMY
+ORD-050,2026-08-14 00:00:00,CUST-012,Ayam Original,Bogor,Mahasiswa,TikTok,4,18000,72000,Baru,Cash,DUMMY
+ORD-054,2026-08-14 00:00:00,CUST-065,Ayam BBQ,Tangerang,Rumah Tangga,WhatsApp,3,20000,60000,Repeat,Transfer,DUMMY
+ORD-092,2026-08-14 00:00:00,CUST-082,Ayam Pedas,Jakarta Selatan,Karyawan,WhatsApp,3,19000,57000,Repeat,Cash,DUMMY
+ORD-074,2026-08-15 00:00:00,CUST-001,Ayam Blackpepper,Jakarta Timur,Mahasiswa,WhatsApp,2,21000,42000,Repeat,Transfer,DUMMY
+ORD-004,2026-08-16 00:00:00,CUST-070,Ayam BBQ,Tangerang,Mahasiswa,Teman/Referensi,1,20000,20000,Baru,Transfer,DUMMY
+ORD-142,2026-08-16 00:00:00,CUST-077,Ayam Original,Jakarta Selatan,Karyawan,TikTok,2,18000,36000,Repeat,E-Wallet,DUMMY
+ORD-022,2026-08-17 00:00:00,CUST-058,Ayam Blackpepper,Depok,Mahasiswa,WhatsApp,1,21000,21000,Baru,Transfer,DUMMY
+ORD-051,2026-08-17 00:00:00,CUST-029,Ayam Original,Depok,Mahasiswa,TikTok,1,18000,18000,Baru,Cash,DUMMY
+ORD-064,2026-08-17 00:00:00,CUST-079,Ayam Blackpepper,Depok,Mahasiswa,Offline/Event,1,21000,21000,Repeat,E-Wallet,DUMMY
+ORD-097,2026-08-17 00:00:00,CUST-062,Paket Hemat,Tangerang,Karyawan,TikTok,3,35000,105000,Repeat,Cash,DUMMY
+ORD-062,2026-08-18 00:00:00,CUST-034,Ayam Original,Bekasi,Rumah Tangga,Instagram,3,18000,54000,Repeat,Transfer,DUMMY
+ORD-103,2026-08-18 00:00:00,CUST-055,Ayam BBQ,Tangerang,Mahasiswa,WhatsApp,1,20000,20000,Baru,Cash,DUMMY
+ORD-115,2026-08-18 00:00:00,CUST-040,Paket Hemat,Depok,Karyawan,TikTok,5,35000,175000,Repeat,Cash,DUMMY
+ORD-096,2026-08-19 00:00:00,CUST-085,Ayam Pedas,Bogor,Mahasiswa,WhatsApp,2,19000,38000,Repeat,E-Wallet,DUMMY
+ORD-008,2026-08-20 00:00:00,CUST-072,Paket Hemat,Bogor,Karyawan,TikTok,5,35000,175000,Baru,Cash,DUMMY
+ORD-017,2026-08-20 00:00:00,CUST-012,Paket Hemat,Jakarta Selatan,Karyawan,Instagram,5,35000,175000,Baru,Transfer,DUMMY
+ORD-024,2026-08-20 00:00:00,CUST-024,Ayam Blackpepper,Depok,Rumah Tangga,WhatsApp,5,21000,105000,Baru,Transfer,DUMMY
+ORD-060,2026-08-20 00:00:00,CUST-050,Ayam Blackpepper,Bogor,Karyawan,WhatsApp,2,21000,42000,Repeat,Transfer,DUMMY
+ORD-108,2026-08-20 00:00:00,CUST-057,Paket Hemat,Jakarta Timur,Rumah Tangga,Teman/Referensi,1,35000,35000,Baru,Transfer,DUMMY
+ORD-021,2026-08-21 00:00:00,CUST-031,Ayam Blackpepper,Depok,Karyawan,Instagram,1,21000,21000,Baru,Transfer,DUMMY
+ORD-035,2026-08-22 00:00:00,CUST-065,Ayam Blackpepper,Jakarta Barat,Karyawan,WhatsApp,3,21000,63000,Baru,E-Wallet,DUMMY
+ORD-072,2026-08-22 00:00:00,CUST-049,Ayam Original,Bekasi,Komunitas/Organisasi,Instagram,2,18000,36000,Repeat,Cash,DUMMY
+ORD-143,2026-08-22 00:00:00,CUST-022,Ayam Blackpepper,Bekasi,Mahasiswa,WhatsApp,2,21000,42000,Repeat,Cash,DUMMY
+ORD-018,2026-08-23 00:00:00,CUST-069,Ayam Blackpepper,Bekasi,Karyawan,WhatsApp,1,21000,21000,Baru,Transfer,DUMMY
+ORD-023,2026-08-23 00:00:00,CUST-043,Ayam Original,Tangerang,Rumah Tangga,Instagram,3,18000,54000,Baru,E-Wallet,DUMMY
+ORD-031,2026-08-23 00:00:00,CUST-003,Ayam BBQ,Jakarta Timur,Komunitas/Organisasi,TikTok,9,20000,180000,Baru,Transfer,DUMMY
+ORD-033,2026-08-23 00:00:00,CUST-018,Ayam Blackpepper,Depok,Karyawan,Teman/Referensi,3,20000,60000,Baru,E-Wallet,DUMMY
+ORD-093,2026-08-23 00:00:00,CUST-084,Ayam Pedas,Tangerang,Mahasiswa,Teman/Referensi,3,19000,57000,Baru,Transfer,DUMMY
+ORD-132,2026-08-23 00:00:00,CUST-017,Ayam Pedas,Bekasi,Rumah Tangga,WhatsApp,3,19000,57000,Repeat,Cash,DUMMY
+ORD-140,2026-08-23 00:00:00,CUST-011,Ayam Original,Bogor,Mahasiswa,Instagram,5,18000,90000,Baru,Transfer,DUMMY
+ORD-150,2026-08-23 00:00:00,CUST-059,Paket Hemat,Tangerang,Karyawan,TikTok,5,35000,175000,Repeat,Cash,DUMMY
+ORD-005,2026-08-24 00:00:00,CUST-045,Ayam BBQ,Jakarta Pusat,Rumah Tangga,WhatsApp,4,20000,80000,Baru,E-Wallet,DUMMY
+ORD-011,2026-08-24 00:00:00,CUST-043,Ayam BBQ,Jakarta Pusat,Mahasiswa,Instagram,2,20000,40000,Baru,Cash,DUMMY
+ORD-012,2026-08-24 00:00:00,CUST-043,Ayam Pedas,Depok,Mahasiswa,WhatsApp,1,19000,19000,Baru,E-Wallet,DUMMY
+ORD-020,2026-08-26 00:00:00,CUST-025,Ayam Original,Jakarta Selatan,Mahasiswa,Instagram,4,18000,72000,Baru,Cash,DUMMY
+ORD-075,2026-08-26 00:00:00,CUST-043,Ayam BBQ,Depok,Mahasiswa,Instagram,1,20000,20000,Baru,E-Wallet,DUMMY
+ORD-082,2026-08-26 00:00:00,CUST-077,Ayam Blackpepper,Depok,Mahasiswa,Instagram,2,21000,42000,Repeat,Cash,DUMMY
+ORD-105,2026-08-26 00:00:00,CUST-067,Ayam BBQ,Jakarta Pusat,Mahasiswa,Teman/Referensi,1,19000,19000,Baru,Transfer,DUMMY
+ORD-029,2026-08-27 00:00:00,CUST-062,Ayam Original,Jakarta Timur,Mahasiswa,Instagram,1,18000,18000,Baru,Cash,DUMMY
+ORD-040,2026-08-27 00:00:00,CUST-028,Paket Hemat,Jakarta Selatan,Mahasiswa,Teman/Referensi,1,35000,35000,Baru,Cash,DUMMY
+ORD-069,2026-08-27 00:00:00,CUST-004,Ayam BBQ,Jakarta Barat,Mahasiswa,WhatsApp,4,19000,76000,Repeat,Cash,DUMMY
+ORD-070,2026-08-27 00:00:00,CUST-002,Ayam Original,Jakarta Selatan,Komunitas/Organisasi,Offline/Event,4,18000,72000,Baru,E-Wallet,DUMMY
+ORD-095,2026-08-27 00:00:00,CUST-065,Ayam Pedas,Jakarta Timur,Mahasiswa,WhatsApp,5,19000,95000,Repeat,Cash,DUMMY
+ORD-101,2026-08-27 00:00:00,CUST-082,Ayam Blackpepper,Jakarta Timur,Karyawan,TikTok,5,20000,100000,Baru,E-Wallet,DUMMY
+ORD-102,2026-08-27 00:00:00,CUST-057,Ayam BBQ,Jakarta Barat,Rumah Tangga,TikTok,1,20000,20000,Baru,Cash,DUMMY
+ORD-111,2026-08-27 00:00:00,CUST-051,Ayam Blackpepper,Bekasi,Mahasiswa,WhatsApp,2,21000,42000,Repeat,Cash,DUMMY
+ORD-149,2026-08-27 00:00:00,CUST-036,Ayam Blackpepper,Jakarta Timur,Rumah Tangga,WhatsApp,4,21000,84000,Repeat,Transfer,DUMMY
+ORD-034,2026-08-28 00:00:00,CUST-058,Ayam BBQ,Jakarta Pusat,Mahasiswa,WhatsApp,4,20000,80000,Baru,Transfer,DUMMY
+ORD-094,2026-08-28 00:00:00,CUST-014,Ayam BBQ,Jakarta Barat,Mahasiswa,TikTok,5,20000,100000,Repeat,E-Wallet,DUMMY
+ORD-110,2026-08-28 00:00:00,CUST-046,Ayam Pedas,Bekasi,Karyawan,WhatsApp,1,19000,19000,Repeat,E-Wallet,DUMMY
+ORD-058,2026-08-29 00:00:00,CUST-033,Ayam Pedas,Jakarta Selatan,Karyawan,TikTok,4,19000,76000,Repeat,Transfer,DUMMY
+ORD-065,2026-08-29 00:00:00,CUST-056,Ayam BBQ,Tangerang,Karyawan,Teman/Referensi,4,20000,80000,Repeat,E-Wallet,DUMMY
+ORD-081,2026-08-29 00:00:00,CUST-063,Ayam Pedas,Jakarta Timur,Karyawan,TikTok,2,19000,38000,Repeat,Transfer,DUMMY
+ORD-135,2026-08-29 00:00:00,CUST-038,Ayam BBQ,Jakarta Pusat,Komunitas/Organisasi,Offline/Event,6,20000,120000,Baru,Transfer,DUMMY
+ORD-067,2026-08-30 00:00:00,CUST-056,Paket Hemat,Bekasi,Karyawan,WhatsApp,1,35000,35000,Baru,E-Wallet,DUMMY
+ORD-113,2026-08-30 00:00:00,CUST-036,Ayam Pedas,Tangerang,Karyawan,WhatsApp,2,18000,36000,Repeat,E-Wallet,DUMMY
+ORD-068,2026-08-31 00:00:00,CUST-040,Ayam Pedas,Bogor,Komunitas/Organisasi,TikTok,4,19000,76000,Baru,E-Wallet,DUMMY
+ORD-073,2026-08-31 00:00:00,CUST-038,Ayam Blackpepper,Jakarta Pusat,Karyawan,WhatsApp,5,21000,105000,Repeat,Transfer,DUMMY
+ORD-144,2026-09-01 00:00:00,CUST-063,Ayam BBQ,Depok,Rumah Tangga,WhatsApp,5,20000,100000,Baru,E-Wallet,DUMMY
+ORD-043,2026-09-02 00:00:00,CUST-001,Ayam Pedas,Bekasi,Rumah Tangga,WhatsApp,4,19000,76000,Repeat,Transfer,DUMMY
+ORD-053,2026-09-02 00:00:00,CUST-075,Ayam Blackpepper,Depok,Karyawan,Instagram,3,21000,63000,Repeat,E-Wallet,DUMMY
+ORD-056,2026-09-02 00:00:00,CUST-046,Ayam Blackpepper,Jakarta Timur,Komunitas/Organisasi,WhatsApp,6,21000,126000,Repeat,Transfer,DUMMY
+ORD-122,2026-09-02 00:00:00,CUST-017,Ayam Original,Bogor,Rumah Tangga,WhatsApp,5,17000,85000,Repeat,E-Wallet,DUMMY
+ORD-003,2026-09-03 00:00:00,CUST-018,Ayam Original,Jakarta Selatan,Karyawan,Instagram,4,18000,72000,Baru,E-Wallet,DUMMY
+ORD-066,2026-09-03 00:00:00,CUST-039,Ayam Blackpepper,Jakarta Timur,Mahasiswa,TikTok,3,21000,63000,Baru,E-Wallet,DUMMY
+ORD-047,2026-09-04 00:00:00,CUST-076,Ayam Blackpepper,Tangerang,Rumah Tangga,WhatsApp,5,21000,105000,Repeat,Cash,DUMMY
+ORD-013,2026-09-05 00:00:00,CUST-001,Ayam Blackpepper,Bogor,Mahasiswa,TikTok,1,21000,21000,Baru,Cash,DUMMY
+ORD-015,2026-09-05 00:00:00,CUST-041,Paket Hemat,Jakarta Selatan,Mahasiswa,WhatsApp,1,35000,35000,Baru,Cash,DUMMY
+ORD-099,2026-09-05 00:00:00,CUST-033,Ayam BBQ,Jakarta Timur,Mahasiswa,Teman/Referensi,3,20000,60000,Baru,Cash,DUMMY
+ORD-088,2026-09-06 00:00:00,CUST-041,Ayam BBQ,Jakarta Selatan,Mahasiswa,Instagram,3,20000,60000,Repeat,E-Wallet,DUMMY
+ORD-146,2026-09-06 00:00:00,CUST-085,Ayam Pedas,Jakarta Barat,Karyawan,Teman/Referensi,3,19000,57000,Repeat,Cash,DUMMY
+ORD-148,2026-09-06 00:00:00,CUST-031,Ayam BBQ,Jakarta Timur,Mahasiswa,Teman/Referensi,1,20000,20000,Repeat,E-Wallet,DUMMY
+ORD-010,2026-09-07 00:00:00,CUST-048,Ayam Blackpepper,Jakarta Timur,Karyawan,WhatsApp,4,21000,84000,Baru,Cash,DUMMY
+ORD-037,2026-09-07 00:00:00,CUST-064,Ayam BBQ,Jakarta Selatan,Mahasiswa,TikTok,5,20000,100000,Baru,E-Wallet,DUMMY
+ORD-059,2026-09-07 00:00:00,CUST-031,Ayam Pedas,Jakarta Selatan,Mahasiswa,Teman/Referensi,3,19000,57000,Repeat,Cash,DUMMY
+ORD-125,2026-09-07 00:00:00,CUST-057,Paket Hemat,Depok,Karyawan,WhatsApp,3,35000,105000,Repeat,E-Wallet,DUMMY
+ORD-145,2026-09-07 00:00:00,CUST-042,Ayam Pedas,Depok,Karyawan,Offline/Event,1,19000,19000,Repeat,Cash,DUMMY
+ORD-009,2026-09-08 00:00:00,CUST-010,Ayam Pedas,Tangerang,Komunitas/Organisasi,TikTok,11,19000,209000,Baru,Transfer,DUMMY
+ORD-044,2026-09-08 00:00:00,CUST-053,Ayam Blackpepper,Tangerang,Karyawan,WhatsApp,4,21000,84000,Repeat,Transfer,DUMMY
+ORD-057,2026-09-08 00:00:00,CUST-029,Ayam Pedas,Depok,Mahasiswa,WhatsApp,5,19000,95000,Repeat,Transfer,DUMMY
+ORD-025,2026-09-09 00:00:00,CUST-023,Ayam Blackpepper,Bogor,Mahasiswa,WhatsApp,5,20000,100000,Baru,E-Wallet,DUMMY
+ORD-124,2026-09-09 00:00:00,CUST-055,Ayam Blackpepper,Jakarta Barat,Karyawan,WhatsApp,3,21000,63000,Baru,E-Wallet,DUMMY
+ORD-079,2026-09-10 00:00:00,CUST-015,Ayam Blackpepper,Jakarta Selatan,Rumah Tangga,WhatsApp,1,21000,21000,Repeat,Cash,DUMMY
+ORD-085,2026-09-10 00:00:00,CUST-048,Ayam Pedas,Jakarta Pusat,Mahasiswa,Offline/Event,4,19000,76000,Baru,Cash,DUMMY
+ORD-090,2026-09-10 00:00:00,CUST-014,Ayam BBQ,Tangerang,Mahasiswa,WhatsApp,3,20000,60000,Baru,Transfer,DUMMY
+ORD-098,2026-09-10 00:00:00,CUST-066,Paket Hemat,Tangerang,Mahasiswa,WhatsApp,1,35000,35000,Repeat,Transfer,DUMMY
+ORD-030,2026-09-11 00:00:00,CUST-021,Ayam Pedas,Bogor,Karyawan,WhatsApp,3,19000,57000,Baru,Cash,DUMMY
+ORD-117,2026-09-11 00:00:00,CUST-061,Ayam BBQ,Jakarta Selatan,Mahasiswa,TikTok,3,20000,60000,Repeat,Transfer,DUMMY
+ORD-084,2026-09-12 00:00:00,CUST-065,Ayam Blackpepper,Depok,Mahasiswa,WhatsApp,5,21000,105000,Baru,Cash,DUMMY
+ORD-112,2026-09-12 00:00:00,CUST-012,Ayam Pedas,Jakarta Selatan,Rumah Tangga,Teman/Referensi,1,19000,19000,Repeat,E-Wallet,DUMMY
+ORD-147,2026-09-12 00:00:00,CUST-026,Ayam Pedas,Jakarta Timur,Karyawan,Instagram,3,19000,57000,Repeat,Cash,DUMMY
+ORD-114,2026-09-13 00:00:00,CUST-018,Ayam BBQ,Jakarta Selatan,Mahasiswa,WhatsApp,1,20000,20000,Repeat,Transfer,DUMMY
+ORD-131,2026-09-13 00:00:00,CUST-051,Ayam Pedas,Bekasi,Rumah Tangga,WhatsApp,3,19000,57000,Repeat,Cash,DUMMY
+ORD-133,2026-09-13 00:00:00,CUST-019,Ayam BBQ,Depok,Mahasiswa,Instagram,3,20000,60000,Repeat,E-Wallet,DUMMY
